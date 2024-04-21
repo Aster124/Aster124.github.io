@@ -1,0 +1,39 @@
+body{
+background-color: rgb(91, 117, 56) ;
+}
+
+
+
+.sic{
+    width:250px ;
+    height:198px ;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnaUwf6rThv8Wh82wR-KYlX4IYfSWiuEjJGqsmMwS2A&s);
+    margin:0 ;
+    
+}
+.fot{
+    width: 250px;
+    height:190px ;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8ZDzkry8tlYF2lR5OLhGu7nIiG8OuyyUz2gOmeTSrQ&s) ;
+    position: absolute;
+ left:70% ;
+
+
+ }
+ .wet{
+    width:250px ;
+    height: 200px; ;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGi9XgXpfCqDo6r4Oyvz_MD3AFguCZz_ziUyZ_onVdw&s) ;
+    position:absolute;
+    left: 50%;
+    top: 70%;
+    transform:translate(-50%,-50%) ;
+ }
+ .text{
+    width:250px ;
+    height:200px ;
+    color: mediumpurple;
+    
+    position: absolute;
+    right:45% ;
+ }
